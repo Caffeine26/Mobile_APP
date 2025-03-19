@@ -1,16 +1,10 @@
-# tp01
+# TP01 (Personal Portfolio APp)
 
-A new Flutter project.
+This project is a personal portfolio mobile app built using Flutter, following a provided Figma design sample. It showcases personal details, skills, projects, and a contact section in an elegant and mobile-friendly layout.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Features
+- Profile Section : Display a photos, name, and career.
+- Introduction/Bio : Short description of skills and background.
+- Buttons Included: 
+    1. Hire Me : link access to direct email.
+    2. Download CV : link access to LinkedIn profile.
