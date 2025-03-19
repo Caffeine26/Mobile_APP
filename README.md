@@ -1,4 +1,4 @@
-# TP01 (Personal Portfolio APp)
+# TP01 (Personal Portfolio APP)
 
 This project is a personal portfolio mobile app built using Flutter, following a provided Figma design sample. It showcases personal details, skills, projects, and a contact section in an elegant and mobile-friendly layout.
 
